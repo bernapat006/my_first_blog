@@ -1,5 +1,4 @@
-#!/home/bernadette/djangogirls/myvenv/bin/python
-
+#!/home/bernapat001/my_first_blog/myvenv/bin/python3.6
 # -*- coding: utf-8 -*-
 import re
 import sys
